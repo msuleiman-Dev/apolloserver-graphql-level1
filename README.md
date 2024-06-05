@@ -1,2 +1,2 @@
 # apolloserver-graphql-level1
- Apollo Server GraphQl Certification Level1
+ based on https://github.com/apollographql/odyssey-lift-off-part1/blob/main/README.md

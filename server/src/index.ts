@@ -3,7 +3,7 @@ import { makeExecutableSchema } from "@graphql-tools/schema";
 import { ApolloServer } from "@apollo/server";
 import { startStandaloneServer } from "@apollo/server/standalone";
 import mocks from "./mock";
-import typeDefs from "./schema";
+import {typeDefs} from "./schema";
 
 async function startApolloServer() {
   const server = new ApolloServer({
